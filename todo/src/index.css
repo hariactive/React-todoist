@@ -1,0 +1,16 @@
+
+
+input[type="text"]{
+  background:transparent;
+  color: black;
+  
+}
+input[type="text"]:focus{
+  background:transparent;
+  color: black;
+
+}
+h2{
+  font-weight:bolder;
+  color: brown;
+}
